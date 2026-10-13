@@ -1,4 +1,4 @@
-# Open MFA Examples
+# Public Domain MFAs
 Free and open-source examples for Clickteam Fusion 2.5, made by the TypeJCW team. Free for usage, editing, and many more purposes!
 # Installation
 Installing is simple, just click on the green **Code** button and press [**Download Zip**](https://github.com/TypeJCW/Open-MFA-Examples/archive/refs/heads/main.zip). Yeah, simple. Enjoy!
