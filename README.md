@@ -5,6 +5,6 @@ Installing is simple, just click on the green **Code** button and press [**Downl
 # Current Examples
 - [Pathfinding](https://github.com/TypeJCW/Open-MFA-Examples/tree/main/Pathfinding)
   - [*JaCobWeb's Pathfinding Example*](https://github.com/TypeJCW/Open-MFA-Examples/tree/main/Pathfinding/JaCobWeb's%20Pathfinding%20Example)
-  - [*AStar Navigato | BETAr*](https://github.com/TypeJCW/PublicDomainMFAs/tree/main/Pathfinding/A*%20Navigator)
+  - [*AStar Navigator | BETA*](https://github.com/TypeJCW/PublicDomainMFAs/tree/main/Pathfinding/A*%20Navigator)
 - [Frame Manipulation](https://github.com/TypeJCW/Open-MFA-Examples/tree/main/Frame%20Manipulation)
   - [*JaCobWeb's Map Maker*](https://github.com/TypeJCW/Open-MFA-Examples/tree/main/Frame%20Manipulation/JaCobWeb's%20Map%20Maker)
